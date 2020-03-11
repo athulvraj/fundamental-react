@@ -454,7 +454,7 @@ exports[`<TimePicker /> create time picker 10`] = `
               aria-controls="rthHR811"
               aria-expanded="false"
               aria-haspopup="true"
-              className="fd-button fd-button--light sap-icon--fob-watch fd-input-group__button"
+              className="fd-button fd-button--transparent sap-icon--fob-watch fd-input-group__button"
               type="button"
             />
           </span>
